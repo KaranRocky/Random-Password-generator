@@ -1,1 +1,2 @@
-# Random-Password-generator
+# randPasswordGenerator
+Generates a random strong password  
